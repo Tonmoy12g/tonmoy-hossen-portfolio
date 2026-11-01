@@ -1,0 +1,6 @@
+{
+  "name": "Md Tonmoy Hossen - Portfolio",
+  "description": "Personal portfolio website for junior developer Md Tonmoy Hossen featuring interactive 3D Three.js lanyard ID card, Telegram bots, web apps, certificates, and tech stack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
